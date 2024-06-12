@@ -16,6 +16,6 @@ git first repo
 scanf("%f,&number");
 answer=sqrt(number);
 printf("The result is%2f\n",answer);
-//return 0;
+//return 9;
 }
 g firstc.cpp…]()
